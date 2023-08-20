@@ -5,7 +5,7 @@ import Rating from './Rating/Rating';
 import Explore from './Explore/Explore';
 
 
-const BookingPage = () => {
+const page = () => {
     return (
         <div>
             <BookingSlider></BookingSlider>
@@ -16,4 +16,4 @@ const BookingPage = () => {
     );
 };
 
-export default BookingPage;
+export default page;
