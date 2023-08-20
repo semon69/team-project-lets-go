@@ -11,7 +11,7 @@ const PostDetails = () => {
   return (
     <div>
       <Image
-        className="mb-4 h-full w-full rounded-lg"
+        className="w-full h-full mb-4 rounded-lg"
         src="https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01.jpg"
         alt="img"
         width="5000"
@@ -20,7 +20,7 @@ const PostDetails = () => {
       <div>
         <div className="flex gap-4">
           <div className="flex items-center gap-2">
-            <FaUserAlt className="text-green-500  " />
+            <FaUserAlt className="text-green-500 " />
             <p>Admin</p>
           </div>
           <div className="flex items-center gap-2">
@@ -29,7 +29,7 @@ const PostDetails = () => {
           </div>
         </div>
       </div>
-      <h2 className="text-3xl font-bold my-3">
+      <h2 className="my-3 text-3xl font-bold">
         Thins to see and do when visiting Japan
       </h2>
       <p>
@@ -38,15 +38,15 @@ const PostDetails = () => {
         illo veritatis et quasi beatae vitae dicta sunt explicabo.
       </p>
 
-      <h2 className="text-2xl font-bold  my-3">Build camping easily.</h2>
+      <h2 className="my-3 text-2xl font-bold">Build camping easily.</h2>
       <p>
         Less time collecting water means more time in class. Clean water and
-        proper toilets at school means teenage girls don’t have to stay home for
+        proper toilets at school means teenage girls dont have to stay home for
         a week out of every month.
       </p>
 
       <PostQuote />
-      <h2 className="text-2xl font-bold my-3">
+      <h2 className="my-3 text-2xl font-bold">
         Great opportunity for adventure & travels
       </h2>
       <p>
@@ -56,7 +56,7 @@ const PostDetails = () => {
         ad minima veniam quis nostrum exercitationem ullam.
       </p>
       <hr className="mt-8" />
-      <div className="flex justify-between items-center">
+      <div className="flex items-center justify-between">
         <div className="flex gap-4 ">
           <h3 className="font-bold px-[15px] ">Tags:</h3>
           <p className="bg-gray-300 rounded-md px-[15px] hover:bg-green-400 ">
@@ -71,23 +71,23 @@ const PostDetails = () => {
         </div>
         <div className="flex gap-2 ">
           <div className="flex">
-            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center hover:bg-white">
-              <FiTwitter className="h-5 w-5 hover:text-black " />
+            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center">
+              <FiTwitter className="w-5 h-5 hover:text-black " />
             </div>
-            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center hover:bg-white">
-              <CiFacebook className="h-5 w-5 hover:text-black" />
+            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center">
+              <CiFacebook className="w-5 h-5 hover:text-black" />
             </div>
-            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center hover:bg-white">
-              <AiOutlineInstagram className="h-5 w-5 hover:text-black" />
+            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center">
+              <AiOutlineInstagram className="w-5 h-5 hover:text-black" />
             </div>
-            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center hover:bg-white">
-              <CiLinkedin className="h-5 w-5 hover:text-black" />
+            <div className="h-[40px]  hover:bg-green-400 w-[40px] rounded-full  flex items-center justify-center">
+              <CiLinkedin className="w-5 h-5 hover:text-black" />
             </div>
           </div>
         </div>
       </div>
       <div className="my-6">
-        <div className="rounded-md px-10 py-10 bg-gray-200 flex items-center gap-6">
+        <div className="flex items-center gap-6 px-10 py-10 bg-gray-200 rounded-md">
           <div>
             <FaUserAlt className="w-32 h-32" />
           </div>

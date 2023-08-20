@@ -16,10 +16,10 @@ import AddComment from './AddComment';
 
 const Explore = () => {
     return (
-      <div className="container p-4 md:p-0 mx-auto py-10 md:flex gap-6 mb-7">
+      <div className="container gap-6 p-4 py-10 mx-auto md:p-0 md:flex mb-7">
         <div className=" w-full md:w-[60%]">
           <div className="">
-            <h1 className="font-bold text-3xl text-black">Explore Tours</h1>
+            <h1 className="text-3xl font-bold text-black">Explore Tours</h1>
             <p className="text-[#5e5a5a] mt-3">
               Sed ut perspiciatis unde omniste natus error sit voluptatem
               accusantium doloremque laudantium totam rem aperiam, eaque ip quae
@@ -27,10 +27,10 @@ const Explore = () => {
               sunt explicabo nemo enim ipsam voluptatem quia voluptas sit
               aspernatur aut odit.
             </p>
-            <div className="my-7 grid grid-cols-2 gap-3">
+            <div className="grid grid-cols-2 gap-3 my-7">
               <div className="">
                 <div className="mb-4">
-                  <h1 className="font-bold text-3xl text-black">
+                  <h1 className="text-3xl font-bold text-black">
                     Advance Facilities
                   </h1>
                   <p className="text-[#5e5a5a] mt-3">
@@ -40,7 +40,7 @@ const Explore = () => {
                   </p>
                 </div>
                 <div className="mb-4">
-                  <h1 className="font-bold text-3xl text-black">Challenges</h1>
+                  <h1 className="text-3xl font-bold text-black">Challenges</h1>
                   <p className="text-[#5e5a5a] mt-3">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
