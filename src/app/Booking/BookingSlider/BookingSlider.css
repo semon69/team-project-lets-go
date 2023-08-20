@@ -1,0 +1,12 @@
+.swiper-button-prev {
+    background: white;
+    color: black;
+    width: 54px;
+    height: 59px;
+}
+.swiper-button-next {
+    background: white;
+    color: black;
+    width: 54px;
+    height: 89px;
+}

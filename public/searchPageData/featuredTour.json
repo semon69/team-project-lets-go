@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-5.jpg",
+        "title": "Cozy Apartment in the City Center",
+        "location": "New York City, USA",
+        "days": 7,
+        "guests": 2,
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-4.jpg",
+        "title": "Beachfront Villa with Stunning Views",
+        "location": "Bali, Indonesia",
+        "days": 10,
+        "guests": 4,
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-6.jpg",
+        "title": "Mountain Retreat Cabin",
+        "location": "Aspen, Colorado, USA",
+        "days": 5,
+        "guests": 6,
+        "price": 3000
+    },
+    {
+        "id": 4,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-12.jpg",
+        "title": "Cozy Apartment in the City Center",
+        "location": "New York City, USA",
+        "days": 7,
+        "guests": 2,
+        "price": 1000
+    },
+    {
+        "id": 5,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-10.jpg",
+        "title": "Beachfront Villa with Stunning Views",
+        "location": "Bali, Indonesia",
+        "days": 10,
+        "guests": 4,
+        "price": 2500
+    },
+    {
+        "id": 6,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/tour-8.jpg",
+        "title": "Mountain Retreat Cabin",
+        "location": "Aspen, Colorado, USA",
+        "days": 5,
+        "guests": 6,
+        "price": 3000
+    }
+]

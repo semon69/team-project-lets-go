@@ -1,0 +1,8 @@
+.heading-border::before{
+    content: "";
+    position: absolute;
+    bottom: -11px;
+    width: 80px;
+    height: 3px;
+    background: rgb(11, 212, 11);
+}

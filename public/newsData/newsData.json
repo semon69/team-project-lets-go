@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01-500x360.jpg",
+    "name": "Things to see and do when visiting Japan",
+    "category": "Adventure",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 2,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-02-500x360.jpg",
+    "name": "A place where start new life with adventure travel",
+    "category": "City Tour",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 3,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-03-500x360.jpg",
+    "name": "Journeys are best measured with friends",
+    "category": "Life Style",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 4,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01-500x360.jpg",
+    "name": "Top 10 destinations & adventure travel trips",
+    "category": "Wild Camping",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 5,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01-500x360.jpg",
+    "name": "Things to see and do when visiting Japan",
+    "category": "Adventure",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 6,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-02-500x360.jpg",
+    "name": "A place where start new life with adventure travel",
+    "category": "City Tour",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 7,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-03-500x360.jpg",
+    "name": "Journeys are best measured with friends",
+    "category": "Life Style",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 8,
+    "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01-500x360.jpg",
+    "name": "Top 10 destinations & adventure travel trips",
+    "category": "Wild Camping",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo veritatis et quasi beatae vitae dicta sunt explicabo."
+  }
+]

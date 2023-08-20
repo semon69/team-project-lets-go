@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-01-180x180.jpg",
+        "title": "Things to see and do when visiting Japan",
+        "comments": 5
+    },
+    {
+        "id": 2,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-02-180x180.jpg",
+        "title": "A place where start new life with adventure travel",
+        "comments": 3
+    },
+    {
+        "id": 3,
+        "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/blog-03-180x180.jpg",
+        "title": "Journeys are best measured with friends",
+        "comments": 7
+    }
+]

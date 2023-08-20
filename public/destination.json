@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/02/image-08.jpg",
+      "country": "Switzerland",
+      "language": "English",
+      "visa": "Required",
+      "area": "9.8 million km²",
+      "time": "3 hours"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.pixabay.com/photo/2016/11/14/03/26/cliff-1822484_640.jpg",
+      "country": "United Kingdom",
+      "language": "English",
+      "visa": "Not Required",
+      "area": "551 thousand km²",
+      "time": "2 hours"
+    },
+    {
+      "id": 3,
+      "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/02/image-09.jpg",
+      "country": "France",
+      "language": "French",
+      "visa": "Not Required",
+      "area": "551 thousand km²",
+      "time": "2 hours"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2017/10/28/07/47/woman-2896389_640.jpg",
+      "country": "Germany",
+      "language": "German",
+      "visa": "Required",
+      "area": "377 thousand km²",
+      "time": "4 hours"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.pixabay.com/photo/2015/09/02/12/30/hiker-918473_640.jpg",
+      "country": "Japan",
+      "language": "Japanese",
+      "visa": "Required",
+      "area": "377 thousand km²",
+      "time": "4 hours"
+    },
+    {
+      "id": 6,
+      "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/image-11.jpg",
+      "country": "Thailand",
+      "language": "Thai",
+      "visa": "Required",
+      "area": "377 thousand km²",
+      "time": "1 hours"
+    
+    },
+    {
+      "id": 7,
+      "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2022/12/image-12.jpg",
+      "country": "Singapore",
+      "language": "English",
+      "visa": "Required",
+      "area": "227 thousand km²",
+      "time": "2 hours"
+    },
+    {
+      "id": 8,
+      "image": "https://gaviaspreview.com/wp/gowilds/wp-content/uploads/2023/01/image-13.jpg",
+      "country": "Italy",
+      "language": "Italian",
+      "visa": "Required",
+      "area": "500 thousand km²",
+      "time": "3 hours"
+    }
+]

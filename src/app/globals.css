@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/app/globals.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+/* Add any other global styles or imports here */
+
+.leaflet-container{
+    height: 500px;
+}
+button.scroll-to-top {
+    background: rgb(58, 144, 58);
+    color: white;
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    z-index: 999;
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "place_name": "City of Love",
+      "location": "Paris, France",
+      "price": 1000,
+      "destination_img": "https://i.ibb.co/0yCP2n7/paris.jpg",
+      "day": 3
+    },
+    {
+      "id": 2,
+      "place_name": "Eternal City",
+      "location": "Rome, Italy",
+      "price": 1200,
+      "destination_img": "https://i.ibb.co/P5TKWrH/rome.jpg",
+      "day": 6
+    },
+    {
+      "id": 3,
+      "place_name": "Land of the Rising Sun",
+      "location": "Tokyo, Japan",
+      "price": 1500,
+      "destination_img": "https://i.ibb.co/FmzMZwD/tokyo.jpg",
+      "day": 3
+    },
+    {
+      "id": 4,
+      "place_name": "The Big Apple",
+      "location": "New York City, USA",
+      "price": 800,
+      "destination_img": "https://i.ibb.co/N6wGsYy/usa.jpg",
+      "day": 7
+    },
+    {
+      "id": 5,
+      "place_name": "Mother City",
+      "location": "Cape Town, South Africa",
+      "price": 2000,
+      "destination_img": "https://i.ibb.co/Bz1Pbq7/capeTown.jpg",
+      "day": 4
+    },
+    {
+      "id": 6,
+      "place_name": "Harbour City",
+      "location": "Sydney, Australia",
+      "price": 1800,
+      "destination_img": "https://i.ibb.co/RBRv3dM/sydney.jpg",
+      "day": 3
+    }
+  ]
+  
