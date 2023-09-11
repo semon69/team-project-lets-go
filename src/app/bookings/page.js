@@ -1,8 +1,8 @@
 import React from 'react';
-import BookingSlider from '../bookings/BookingSlider/BookingSlider';
-import Discover from '../bookings/Discover/Discover';
-import Rating from '../bookings/Rating/Rating';
-import Explore from '../bookings/Explore/Explore';
+import BookingSlider from '../../components/Bookings/BookingSlider/BookingSlider';
+import Discover from '../../components/Bookings/Discover/Discover';
+import Rating from '../../components/Bookings/Rating/Rating';
+import Explore from '@/components/Bookings/Explore/Explore';
 
 
 const page = () => {
