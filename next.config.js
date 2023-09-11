@@ -19,8 +19,8 @@ module.exports = {
       "img.freepik.com"
     ],
   },
-  pages: {
-    '/Booking': { prerender: false },
-    '/newsDetails': { prerender: false },
-  },
+  // pages: {
+  //   '/Booking': { prerender: false },
+  //   '/newsDetails': { prerender: false },
+  // },
 };
