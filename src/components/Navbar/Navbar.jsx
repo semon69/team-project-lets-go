@@ -10,7 +10,6 @@ const Navbar = () => {
     const path = usePathname();
     const [open, setOpen] = useState(false)
 
-    console.log(path)
     const navLink = <>
 
         <li className={`font-semibold ${path.includes('/') ? 'text-green-500' : '' } `}><Link href='/'>Home</Link></li>

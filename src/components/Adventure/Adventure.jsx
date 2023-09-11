@@ -115,7 +115,7 @@ const Adventure = () => {
     ],
   };
   return (
-    <div>
+    <div className="mx-8">
       <div className="text-center my-8">
         <span className="text-green-600 bg-green-200 border px-4 py-2 rounded font-bold">
           Popular Activities

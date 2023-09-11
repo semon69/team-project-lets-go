@@ -7,6 +7,7 @@ import "swiper/css/navigation";
 import Image from "next/image";
 
 import { Autoplay, Navigation } from "swiper";
+import Link from "next/link";
 
 const Banner = () => {
   return (
@@ -175,13 +176,9 @@ const Banner = () => {
               </div>
             </div>
           </div>
-          <input
-            className=" outline-none rounded-md px-3 bg-green-600 text-white font-bold"
-            type="search"
-            name="search"
-            placeholder="Search"
-            id=""
-          />
+          <Link className="" href={'/bookings'}>
+            <button className="outline-none rounded-md px-3 bg-green-600 text-white font-bold h-16 w-36">Search</button>
+          </Link>
         </div>
       </>
     </div>
