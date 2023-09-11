@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <ScrollToTop color="white" smooth />
         <Navbar />
         <div className="pt-20">
-        {children}
+          {children}
 
         </div>
 
